@@ -1,0 +1,31 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="477A1C52-00DD-4A03-A4FB-0DC449C73E0E/d:WaveCalculator/f:GaussianCurve.cs" caret="0" fromTop="0" />
+      <File id="477A1C52-00DD-4A03-A4FB-0DC449C73E0E/d:WaveCalculator/f:IWave.cs" caret="0" fromTop="0" />
+      <File id="477A1C52-00DD-4A03-A4FB-0DC449C73E0E/d:WaveCalculator/f:SineWave.cs" caret="0" fromTop="0" />
+      <File id="477A1C52-00DD-4A03-A4FB-0DC449C73E0E/d:WaveCalculator/f:SquareWave.cs" caret="0" fromTop="0" />
+      <File id="477A1C52-00DD-4A03-A4FB-0DC449C73E0E/d:WaveCalculator/f:Wave.cs" caret="0" fromTop="0" />
+      <File id="477A1C52-00DD-4A03-A4FB-0DC449C73E0E/f:Form1.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
